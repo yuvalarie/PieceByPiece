@@ -35,7 +35,7 @@ Navigate and interact with the world entirely through your vacuum-powered toolki
 
 ## 👥 Team
 
-- 🎨 **Game Design**: Roi Lampert, Omri Bergman  
+- 🎨 **Game Design**: Roi Lampert, Omri Bergman, Omri Benbenisty
 - 💻 **Development**: Yuval Arie, Amit Aizenman
 
 ---
